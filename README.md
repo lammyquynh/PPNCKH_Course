@@ -7,6 +7,6 @@ Course: Phương Pháp Nghiên Cứu Khoa Học
 - Định hướng: tìm hiểu, học hỏi thêm các kiến thức chuyên sâu về phân tích dữ liệu, để áp dụng phát triển công việc trong tương lai
 
 # Group
-Nguyễn Xuân Huy - CH2002007 - git repo: https://github.com/XuanHuyuit/CS2205.CH1501
-Lâm Mỹ Quỳnh - CH2004013 - git repo: https://github.com/lammyquynh/CS2205.CH1501
-Phạm Ngọc Bảo Cương - CH2001024 - git repo: https://github.com/pnbaocuong/CS2205.CH1501
+- Nguyễn Xuân Huy - CH2002007 - git repo: https://github.com/XuanHuyuit/CS2205.CH1501
+- Lâm Mỹ Quỳnh - CH2004013 - git repo: https://github.com/lammyquynh/CS2205.CH1501
+- Phạm Ngọc Bảo Cương - CH2001024 - git repo: https://github.com/pnbaocuong/CS2205.CH1501
