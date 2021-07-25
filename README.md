@@ -27,4 +27,5 @@ https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT20.md
 - QT21: Các rào cản của tư quy phản biện
 https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT21.md
 
-#Final Report
+# Final Report
+https://github.com/lammyquynh/CS2205.CH1501/blob/main/CS2205.CH1501.RM.CH2004013.pdf
