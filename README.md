@@ -17,6 +17,7 @@ Course: Phương Pháp Nghiên Cứu Khoa Học
 - QT03: Tạo nhóm
 - QT04: Đặt câu hỏi về môn học
 - QT06: Mong đợi học và làm được gì
+- QT011: Tìm kiếm google nâng cao
 
 # Team Exercise Completed
 - QT12: Cách sử dụng Google Scholar 
