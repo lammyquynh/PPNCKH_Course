@@ -11,14 +11,19 @@ Course: Phương Pháp Nghiên Cứu Khoa Học
 - Lâm Mỹ Quỳnh - CH2004013 - git repos: https://github.com/lammyquynh/CS2205.CH1501
 - Phạm Ngọc Bảo Cương - CH2001024 - git repos: https://github.com/pnbaocuong/CS2205.CH1501
 
-# Exercise Done
+# Individual Exercise Completed
 - QT01: Tự giới thiệu
 - QT02: Tạo github repository cá nhân
 - QT03: Tạo nhóm
-- QT04:
-- QT05:
+- QT04: Đặt câu hỏi về môn học
+- QT06: Mong đợi học và làm được gì
 
+# Team Exercise Completed
+- QT12: Cách sử dụng Google Scholar 
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT12.md
+- QT20: Critical Thinking - Tư duy phản biện là gì?
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT20.md
+- QT21: Các rào cản của tư quy phản biện
+https://github.com/pnbaocuong/CS2205.CH1501.TEAM/blob/main/QT/QT21.md
 
-
-
-
+#Final Report
